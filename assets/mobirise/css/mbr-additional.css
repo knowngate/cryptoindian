@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i);
+@import url(https://fonts.googleapis.com/css?family=Ubuntu:300,300i,400,400i,500,500i,700,700i);
 
 
 
@@ -20,35 +20,35 @@ body {
   line-height: 1.6;
 }
 .display-1 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
   font-size: 2rem;
 }
 .display-1 > .mbr-iconfont {
   font-size: 3.2rem;
 }
 .display-2 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
   font-size: 2rem;
 }
 .display-2 > .mbr-iconfont {
   font-size: 3.2rem;
 }
 .display-4 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
   font-size: 0.8rem;
 }
 .display-4 > .mbr-iconfont {
   font-size: 1.28rem;
 }
 .display-5 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
   font-size: 0.85rem;
 }
 .display-5 > .mbr-iconfont {
   font-size: 1.36rem;
 }
 .display-7 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
   font-size: 0.8rem;
 }
 .display-7 > .mbr-iconfont {
@@ -270,21 +270,21 @@ body {
 .btn-white:active {
   background-color: #ffffff;
   border-color: #ffffff;
-  color: #ffffff;
+  color: #808080;
 }
 .btn-white:hover,
 .btn-white:focus,
 .btn-white.focus,
 .btn-white.active {
-  color: #ffffff;
-  background-color: #d4d4d4;
-  border-color: #d4d4d4;
+  color: #808080;
+  background-color: #d9d9d9;
+  border-color: #d9d9d9;
 }
 .btn-white.disabled,
 .btn-white:disabled {
-  color: #ffffff !important;
-  background-color: #d4d4d4 !important;
-  border-color: #d4d4d4 !important;
+  color: #808080 !important;
+  background-color: #d9d9d9 !important;
+  border-color: #d9d9d9 !important;
 }
 .btn-black,
 .btn-black:active {
@@ -647,7 +647,7 @@ a:hover {
   background-color: #f5f5f5;
   box-shadow: none;
   color: #565656;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
   font-size: 0.8rem;
   line-height: 1.43;
   min-height: 3.5em;
@@ -1364,13 +1364,13 @@ body {
   min-height: 100vh;
 }
 .cid-qHar5olEaN .navbar {
-  background: #ffffff;
+  background: #ffc107;
   transition: none;
   min-height: 77px;
   padding: .5rem 0;
 }
 .cid-qHar5olEaN .navbar-dropdown.bg-color.transparent.opened {
-  background: #ffffff;
+  background: #ffc107;
 }
 .cid-qHar5olEaN a {
   font-style: normal;
@@ -1454,7 +1454,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qHar5olEaN .dropdown .dropdown-menu {
-  background: #ffffff;
+  background: #ffc107;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -1742,7 +1742,7 @@ body {
 }
 .cid-qHar5olEaN .nav-link:hover,
 .cid-qHar5olEaN .dropdown-item:hover {
-  color: #cc2952 !important;
+  color: #7f1933 !important;
 }
 .cid-qHaxTuGz3R .modal-body .close {
   background: #1b1b1b;
@@ -1981,14 +1981,22 @@ body {
 .cid-qHaxTuGz3R .mbr-overlay ~ .container-slide {
   z-index: auto;
 }
+.cid-qHaxTuGz3R H2 {
+  color: #ffffff;
+}
+.cid-qHbmUii2Ec {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #cc8e32;
+}
 .cid-qHaJsfiV3y .navbar {
-  background: #ffffff;
+  background: #ffc107;
   transition: none;
   min-height: 77px;
   padding: .5rem 0;
 }
 .cid-qHaJsfiV3y .navbar-dropdown.bg-color.transparent.opened {
-  background: #ffffff;
+  background: #ffc107;
 }
 .cid-qHaJsfiV3y a {
   font-style: normal;
@@ -2072,7 +2080,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qHaJsfiV3y .dropdown .dropdown-menu {
-  background: #ffffff;
+  background: #ffc107;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -2360,7 +2368,7 @@ body {
 }
 .cid-qHaJsfiV3y .nav-link:hover,
 .cid-qHaJsfiV3y .dropdown-item:hover {
-  color: #cc2952 !important;
+  color: #7f1933 !important;
 }
 .cid-qHaLKU5tJE {
   padding-top: 105px;
@@ -2437,13 +2445,13 @@ body {
   background: #e9e9e9;
 }
 .cid-qHaPbajMZw .navbar {
-  background: #ffffff;
+  background: #ffc107;
   transition: none;
   min-height: 77px;
   padding: .5rem 0;
 }
 .cid-qHaPbajMZw .navbar-dropdown.bg-color.transparent.opened {
-  background: #ffffff;
+  background: #ffc107;
 }
 .cid-qHaPbajMZw a {
   font-style: normal;
@@ -2527,7 +2535,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qHaPbajMZw .dropdown .dropdown-menu {
-  background: #ffffff;
+  background: #ffc107;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -2815,16 +2823,16 @@ body {
 }
 .cid-qHaPbajMZw .nav-link:hover,
 .cid-qHaPbajMZw .dropdown-item:hover {
-  color: #cc2952 !important;
+  color: #7f1933 !important;
 }
 .cid-qHaQjdTmyd .navbar {
-  background: #ffffff;
+  background: #ffc107;
   transition: none;
   min-height: 77px;
   padding: .5rem 0;
 }
 .cid-qHaQjdTmyd .navbar-dropdown.bg-color.transparent.opened {
-  background: #ffffff;
+  background: #ffc107;
 }
 .cid-qHaQjdTmyd a {
   font-style: normal;
@@ -2908,7 +2916,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qHaQjdTmyd .dropdown .dropdown-menu {
-  background: #ffffff;
+  background: #ffc107;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -3196,5 +3204,8 @@ body {
 }
 .cid-qHaQjdTmyd .nav-link:hover,
 .cid-qHaQjdTmyd .dropdown-item:hover {
-  color: #cc2952 !important;
+  color: #7f1933 !important;
+}
+#custom-html-17 {
+  /* Type valid CSS here */
 }
